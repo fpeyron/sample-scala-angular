@@ -1,0 +1,9 @@
+
+server:
+  tomcat:
+    max-threads: 4
+
+#spring:
+#  resources:
+#    chain:
+#    enabled: true
